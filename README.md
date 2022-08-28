@@ -8,12 +8,13 @@
 
 # Imersão Python FIAP 1/3.
 
-<details><summary>Threat hunting de IP com Python.</summary>
+[<details><summary>Threat hunting de IP com Python.</summary>](https://github.com/usrbinbrain/fiap-python-02/blob/main/README.md)
 
   - Conceitos fundamentais mais aplicáveis da linguagem.
   - Interagir com uma API pública.
   - Identificar de forma preventiva endereços IP maliciosos.
   - Enviar alertas para uma plataforma online e acessível 24/7.
+
 
 </details>
 
